@@ -1,0 +1,6 @@
+[submodule "Desktop/cam/sites/all/modules/custom/todo"]
+	path = Desktop/cam/sites/all/modules/custom/todo
+	url = https://github.com/dianedouglas/todolist-feature-new.git
+[submodule "Desktop/todoenv/sites/all/modules/custom/todo"]
+	path = Desktop/todoenv/sites/all/modules/custom/todo
+	url = https://github.com/dianedouglas/todolist-feature-new.git
